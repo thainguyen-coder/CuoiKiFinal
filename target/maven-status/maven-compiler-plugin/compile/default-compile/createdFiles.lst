@@ -1,0 +1,8 @@
+com\tranthainguyen\model\HoatDongInfo.class
+com\tranthainguyen\dao\impl\HoatDongDAOImpl.class
+com\tranthainguyen\entity\HoatDong.class
+com\tranthainguyen\config\SpringWebAppInitializer.class
+com\tranthainguyen\controller\HomeController.class
+com\tranthainguyen\config\ApplicationContextConfig.class
+com\tranthainguyen\config\WebMvcConfig.class
+com\tranthainguyen\dao\HoatDongDAO.class
